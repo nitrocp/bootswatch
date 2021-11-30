@@ -11455,8 +11455,8 @@ fieldset:disabled .btn {
 }
 
 .table a:not(.btn) {
-  color: #fff;
-  text-decoration: underline;
+  /*color: #fff;
+  text-decoration: underline;*/
 }
 
 .table .dropdown-menu a {
